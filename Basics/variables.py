@@ -11,3 +11,4 @@ z = False
 print("x is a number variable with the value of", x)
 print("y is a string variable with the value of", y)
 print("z is a boolean variable with the value of", z)
+varinput = input("you can also make your own variables, using an input. text entered will be saved as a string \n type smth")
